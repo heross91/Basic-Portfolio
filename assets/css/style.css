@@ -1,24 +1,30 @@
 header {
     background-color: teal;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width:935px
 }
 body{
     background-color: teal;
+    width: 435px
 }
 head {
     background-color: #777777
+    
 }
 p {
     background-color: #777777;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
+    width: 435px
     
 }
 
 title {
     background-color: #cccccc;
-    border-color:#cccccc
+    border-color:#cccccc;
+    width:435px
 }
 
 footer {
-    background-color: #666666
+    background-color: #666666;
+    width:935px;
 }
